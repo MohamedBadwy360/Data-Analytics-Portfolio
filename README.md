@@ -1,5 +1,15 @@
 # Data-Science-Portoflio #
 
+## Skill Based Projects ##
+
+### EDA
+
+* [Teleco_Customer_Churn_Data](https://github.com/MohamedBadwy360/Data-Science-Portoflio/tree/main/EDA/01.%20Teleco_Customer_Churn_Data) : Exploring the data of `WA_Fn-UseC_-Telco-Customer-Churn` using visualizing and manipulating libraries in Python.
+
+* [Students Performance in Exams Projects](https://github.com/MohamedBadwy360/Data-Science-Portoflio/tree/main/EDA/02.%20Students_Performance_in_Exams) : Exploring the data of `StudentsPerformance` using visualizing and manipulating libraries in Python.
+
+---
+
 ## Certificates ##
 
 * [Mcahine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/XRZ2SVJVHGGN)
