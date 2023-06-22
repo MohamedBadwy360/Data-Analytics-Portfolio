@@ -2,7 +2,7 @@
 
 ## Skill Based Projects ##
 
-### EDA ###
+### Data Visualization & EDA ###
 
 * [Teleco_Customer_Churn_Data](https://github.com/MohamedBadwy360/Data-Science-Portoflio/tree/main/EDA/01.%20Teleco_Customer_Churn_Data) : Exploring the data of `WA_Fn-UseC_-Telco-Customer-Churn` using visualizing and manipulating libraries in Python.
 
