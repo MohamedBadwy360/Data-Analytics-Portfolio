@@ -20,6 +20,7 @@
 * [Data Cleaning - Kaggle](https://www.kaggle.com/learn/certification/mohamedbadwy/data-cleaning)
 * [Data Visualization - Kaggle](https://www.kaggle.com/learn/certification/mohamedbadwy/data-visualization)
 * [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/certification/mohamedbadwy/intro-to-machine-learning)
+* [Intermediate Machine Learning - Kaggle](https://www.kaggle.com/learn/certification/mohamedbadwy/intermediate-machine-learning)
 * [Feature Engineering - Kaggle](https://www.kaggle.com/learn/certification/mohamedbadwy/feature-engineering)
 * [Introduction to Python - DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/f106295c2066184bb2700c5c8b9c9a2ed83be882?share=true)
 * [Intermediate Python - DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/f106295c2066184bb2700c5c8b9c9a2ed83be882?share=true)
