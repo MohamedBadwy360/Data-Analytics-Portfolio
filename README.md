@@ -14,6 +14,7 @@
 
 * [Mcahine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/XRZ2SVJVHGGN)
 * [Deep Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/82Y3TY9JK59L)
+* [DeepLearning.AI TensorFlow Developer - Coursera](https://www.coursera.org/account/accomplishments/professional-cert/U2KZ59JB7K35)
 * [Exploratory Data Analysis for Machine Learning - Coursera](https://www.coursera.org/account/accomplishments/verify/UMPLY7VW2J6Y)
 * [Databases and SQL for Data Science with Python - Coursera](https://www.coursera.org/account/accomplishments/verify/SCQSRGHM3EV6)
 * [Data Analysis Challenger Track - Udacity](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/0a5bc481-5928-4415-809f-1394d2a70b42.pdf)
