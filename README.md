@@ -1,4 +1,4 @@
-# Data-Science-Portoflio #
+# Data-Science-Portfolio #
 
 ## Skill Based Projects ##
 
