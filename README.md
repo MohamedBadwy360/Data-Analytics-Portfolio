@@ -32,3 +32,9 @@
 * [Web Scraping in Python - DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/f5b3abef20eefbb668db17c568b1b777fdcdb34c)
 
 ---
+
+## Course Work
+
+* [Machine Learning Specialization](https://github.com/MohamedBadwy360/Machine-Learning-Specialization)
+* [Deep Learning Specialization](https://github.com/MohamedBadwy360/Deep-Learning-Specialization)
+* [Coursat.ai DL-NLP](https://github.com/MohamedBadwy360/Coursat.ai-DL-NLP)
