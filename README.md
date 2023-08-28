@@ -38,3 +38,4 @@
 * [Machine Learning Specialization](https://github.com/MohamedBadwy360/Machine-Learning-Specialization)
 * [Deep Learning Specialization](https://github.com/MohamedBadwy360/Deep-Learning-Specialization)
 * [Coursat.ai DL-NLP](https://github.com/MohamedBadwy360/Coursat.ai-DL-NLP)
+* [DeepLearning.AI-TensorFlow-Developer Specialization](https://github.com/MohamedBadwy360/DeepLearning.AI-TensorFlow-Developer-Specialization)
