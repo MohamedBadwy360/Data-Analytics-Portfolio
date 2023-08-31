@@ -45,3 +45,4 @@
 * [Data Visualization - kaggle](https://github.com/MohamedBadwy360/Data-Visualization-kaggle)
 * [Intro to Machine Learning - Kaggle](https://github.com/MohamedBadwy360/Intro-to-Machine-Learning-Kaggle)
 * [Intermediate Machine Learning - Kaggle](https://github.com/MohamedBadwy360/Intermediate-Machine-Learning-Kaggle)
+* [Feature Engineering - Kaggle](https://github.com/MohamedBadwy360/Feature-Engineering-Kaggle)
