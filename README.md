@@ -43,3 +43,4 @@
 * [Pandas - Kaggle](https://github.com/MohamedBadwy360/Pandas-Kaggle)
 * [Data Cleaning - Kaggle](https://github.com/MohamedBadwy360/Data-Cleaning-Kaggle)
 * [Data Visualization - kaggle](https://github.com/MohamedBadwy360/Data-Visualization-kaggle)
+* [Intro to Machine Learning - Kaggle](https://github.com/MohamedBadwy360/Intro-to-Machine-Learning-Kaggle)
