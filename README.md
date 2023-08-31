@@ -42,3 +42,4 @@
 * [OpenCV - freecodecamp](https://github.com/MohamedBadwy360/OpenCV-Course)
 * [Pandas - Kaggle](https://github.com/MohamedBadwy360/Pandas-Kaggle)
 * [Data Cleaning - Kaggle](https://github.com/MohamedBadwy360/Data-Cleaning-Kaggle)
+* [Data Visualization - kaggle](https://github.com/MohamedBadwy360/Data-Visualization-kaggle)
