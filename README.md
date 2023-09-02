@@ -39,6 +39,7 @@
 * [Deep Learning Specialization - Coursera](https://github.com/MohamedBadwy360/Deep-Learning-Specialization)
 * [DeepLearning.AI-TensorFlow-Developer Specialization - Coursera](https://github.com/MohamedBadwy360/DeepLearning.AI-TensorFlow-Developer-Specialization)
 * [Exploratory Data Analysis for Machine Learning - Coursera](https://github.com/MohamedBadwy360/Exploratory-Data-Analysis-for-Machine-Learning)
+* [Coursat.ai DL-CV - Coursat.ai](https://github.com/MohamedBadwy360/Coursat.ai-DL-CV)
 * [OpenCV - freecodecamp](https://github.com/MohamedBadwy360/OpenCV-Course)
 * [Pandas - Kaggle](https://github.com/MohamedBadwy360/Pandas-Kaggle)
 * [Data Cleaning - Kaggle](https://github.com/MohamedBadwy360/Data-Cleaning-Kaggle)
