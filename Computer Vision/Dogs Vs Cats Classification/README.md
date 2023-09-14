@@ -12,8 +12,8 @@ I used transfer learning (VGG16 Architecture) to reach a training accuracy of 99
 
 ### Accuracy Plot
 
-![Accuracy Plot](/accuracy.png)
+![Accuracy Plot](https://github.com/MohamedBadwy360/Data-Science-Portfolio/blob/main/Computer%20Vision/Dogs%20Vs%20Cats%20Classification/accuracy.png)
 
 ### Loss Plot
 
-![Loss Plot](/loss.png)
+![Loss Plot](https://github.com/MohamedBadwy360/Data-Science-Portfolio/blob/main/Computer%20Vision/Dogs%20Vs%20Cats%20Classification/loss.png)
