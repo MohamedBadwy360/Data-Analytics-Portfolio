@@ -1,16 +1,20 @@
-# Data-Science-Portfolio #
+# Data-Science-Portfolio
 
-## Skill Based Projects ##
+## Skill Based Projects
 
-### Data Visualization & EDA ###
+### EDA
 
 * [Teleco_Customer_Churn_Data](https://github.com/MohamedBadwy360/Data-Science-Portoflio/tree/main/EDA/01.%20Teleco_Customer_Churn_Data) : Exploring the data of `WA_Fn-UseC_-Telco-Customer-Churn` using visualizing and manipulating libraries in Python.
 
 * [Students Performance in Exams](https://github.com/MohamedBadwy360/Data-Science-Portoflio/tree/main/EDA/02.%20Students_Performance_in_Exams) : Exploring the data of `StudentsPerformance` using visualizing and manipulating libraries in Python.
 
+### Computer Vision
+
+* [Dogs Vs Cats Classification](https://github.com/MohamedBadwy360/Data-Science-Portfolio/tree/main/Computer%20Vision/Dogs%20Vs%20Cats%20Classification) : Classifying `Dogs Vs Cats` Dataset using `Numpy`, `Matplotlib`, and `TensorFlow & Keras` Libraries in `Python` reaching a training accuracy of 99.59% a validaton accuracy of 97.32%.
+
 ---
 
-## Certificates ##
+## Certificates
 
 * [Mcahine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/XRZ2SVJVHGGN)
 * [Deep Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/82Y3TY9JK59L)
