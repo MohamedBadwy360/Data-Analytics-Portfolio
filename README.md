@@ -10,7 +10,7 @@
 ### Computer Vision
 
 * [Dogs Vs Cats Classification](https://github.com/MohamedBadwy360/Data-Science-Portfolio/tree/main/Computer%20Vision/Dogs%20Vs%20Cats%20Classification) : Classifying `Dogs Vs Cats` Dataset using `Numpy`, `Matplotlib`, and `TensorFlow & Keras` Libraries in `Python` reaching a training accuracy of 99.59% a validaton accuracy of 97.32%.
-* [Road Sign Object Detection](https://github.com/MohamedBadwy360/Data-Science-Portfolio/tree/main/Computer%20Vision/Road%20Sign%20Object%20Detection) : uses YOLOv8 on `Road Signs` Dataset  to detect road sign using `Numpy`, `Matplotlib`, `ultralytics` and `TensorFlow & Keras` Libraries in `Python` reaching MAP50-95 accuracy of 81% a MAP50 accuracy of 97% and MAP75 of 91%.
+* [Road Sign Object Detection](https://github.com/MohamedBadwy360/Data-Science-Portfolio/tree/main/Computer%20Vision/Road%20Sign%20Object%20Detection) : uses `YOLOv8` on `Road Signs` Dataset  to detect road sign using `Numpy`, `Matplotlib`, `ultralytics` and `TensorFlow & Keras` Libraries in `Python`.
 
 ---
 
