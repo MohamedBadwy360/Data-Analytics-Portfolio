@@ -5,12 +5,12 @@
 ### EDA
 
 * [Teleco_Customer_Churn_Data](https://github.com/MohamedBadwy360/Data-Science-Portoflio/tree/main/EDA/01.%20Teleco_Customer_Churn_Data) : Exploring the data of `WA_Fn-UseC_-Telco-Customer-Churn` using visualizing and manipulating libraries in Python.
-
 * [Students Performance in Exams](https://github.com/MohamedBadwy360/Data-Science-Portoflio/tree/main/EDA/02.%20Students_Performance_in_Exams) : Exploring the data of `StudentsPerformance` using visualizing and manipulating libraries in Python.
 
 ### Computer Vision
 
 * [Dogs Vs Cats Classification](https://github.com/MohamedBadwy360/Data-Science-Portfolio/tree/main/Computer%20Vision/Dogs%20Vs%20Cats%20Classification) : Classifying `Dogs Vs Cats` Dataset using `Numpy`, `Matplotlib`, and `TensorFlow & Keras` Libraries in `Python` reaching a training accuracy of 99.59% a validaton accuracy of 97.32%.
+* [Road Sign Object Detection](https://github.com/MohamedBadwy360/Data-Science-Portfolio/tree/main/Computer%20Vision/Road%20Sign%20Object%20Detection) : uses YOLOv8 on `Road Signs` Dataset  to detect road sign using `Numpy`, `Matplotlib`, `ultralytics` and `TensorFlow & Keras` Libraries in `Python` reaching MAP50-95 accuracy of 81% a MAP50 accuracy of 97% and MAP75 of 91%.
 
 ---
 
